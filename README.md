@@ -35,7 +35,7 @@ On terminal </br>
 ```
 
 ```diff
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/kholi0o/mip22.git
 ```
 ```diff
 chmod -R 777 mip22 
