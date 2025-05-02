@@ -57,7 +57,7 @@ Installation on Android OS. </br>
 On Termux </br>
 
 ```diff
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/kholi0o/mip22.git
 ```
 
 ```diff
